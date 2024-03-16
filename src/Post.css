@@ -1,0 +1,8 @@
+.post-style {
+  border: 5px solid rgba(255, 1, 255, 0.667);
+  border-style: double;
+  margin-top: 15px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: aliceblue;
+}
